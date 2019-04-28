@@ -15,10 +15,9 @@
     {
       "icon" : "hospital",
       "title" : "Site selection",
-      "description" : "Efficient short listing of prospective Investigators from our database.
+      "description" : "Efficient short listing of prospective Investigators from our database."
 
-      Network of the top enrolling sites nationwide on multiple studies by virtue of their inherent merits
-      . "
+      
     },
     {
       "icon" : "file-medical-alt",
@@ -28,17 +27,17 @@
     {
       "icon" : "clock",
       "title" : "Medical writing",
-      "description" : " "
+      "description" : "... "
     },
     {
       "icon" : "clock",
       "title" : "Statistical analysis",
-      "description" : " "
+      "description" : "... "
     },
     {
       "icon" : "clock",
       "title" : "Other services",
-      "description" : " "
+      "description" : ", "
     }
   ]  
 }
