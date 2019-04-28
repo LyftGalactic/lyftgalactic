@@ -1,20 +1,40 @@
 {
-  "title" : "Features",
+  "title" : "Services",
   "description" : "We're best at our services",
   "content" : [
     {
-      "icon" : "bell",
-      "title" : "Feature 1",
+      "icon" : "user-md",
+      "title" : "Clinical trails",
       "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam elementum tristique arcu, in tristique sapien commodo sodales. Vivamus condimentum quam mi."
     },
     {
-      "icon" : "rocket",
+      "icon" : "notes-medical",
       "title" : "Feature 2",
       "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam efficitur, est sed vestibulum viverra, mi dui semper erat, non placerat dolor est"
     },
     {
-      "icon" : "clock",
+      "icon" : "hospital",
       "title" : "Feature 3",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus in ornare orci, et posuere velit. Suspendisse tempor blandit augue, non. "
+    },
+    {
+      "icon" : "file-medical-alt",
+      "title" : "Feature 4",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus in ornare orci, et posuere velit. Suspendisse tempor blandit augue, non. "
+    },
+    {
+      "icon" : "clock",
+      "title" : "Feature 5",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus in ornare orci, et posuere velit. Suspendisse tempor blandit augue, non. "
+    },
+    {
+      "icon" : "clock",
+      "title" : "Feature 6",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus in ornare orci, et posuere velit. Suspendisse tempor blandit augue, non. "
+    },
+    {
+      "icon" : "clock",
+      "title" : "Feature 6",
       "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus in ornare orci, et posuere velit. Suspendisse tempor blandit augue, non. "
     }
   ]  

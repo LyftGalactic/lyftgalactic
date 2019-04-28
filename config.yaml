@@ -1,4 +1,4 @@
-baseURL : https://demo.uicard.io/hugo-sodium/
+baseURL : https://demo.uicard.io/
 languageCode : en-us
 title : Sodium
 theme : hugo-sodium-theme
