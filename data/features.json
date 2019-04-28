@@ -9,32 +9,32 @@
     },
     {
       "icon" : "notes-medical",
-      "title" : "Feature 2",
+      "title" : "Subject recruitment",
       "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam efficitur, est sed vestibulum viverra, mi dui semper erat, non placerat dolor est"
     },
     {
       "icon" : "hospital",
-      "title" : "Feature 3",
+      "title" : "Site Initiation",
       "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus in ornare orci, et posuere velit. Suspendisse tempor blandit augue, non. "
     },
     {
       "icon" : "file-medical-alt",
-      "title" : "Feature 4",
+      "title" : "Site monitoring",
       "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus in ornare orci, et posuere velit. Suspendisse tempor blandit augue, non. "
     },
     {
       "icon" : "clock",
-      "title" : "Feature 5",
+      "title" : "Medical writing",
       "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus in ornare orci, et posuere velit. Suspendisse tempor blandit augue, non. "
     },
     {
       "icon" : "clock",
-      "title" : "Feature 6",
+      "title" : "Statistical analysis",
       "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus in ornare orci, et posuere velit. Suspendisse tempor blandit augue, non. "
     },
     {
       "icon" : "clock",
-      "title" : "Feature 6",
+      "title" : "Other services",
       "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus in ornare orci, et posuere velit. Suspendisse tempor blandit augue, non. "
     }
   ]  
