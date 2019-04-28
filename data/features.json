@@ -5,37 +5,40 @@
     {
       "icon" : "user-md",
       "title" : "Clinical trails",
-      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam elementum tristique arcu, in tristique sapien commodo sodales. Vivamus condimentum quam mi."
+      "description" : "Excellence in Onsite Coordination and Monitoring of Phase II, III, and IV clinical trials."
     },
     {
       "icon" : "notes-medical",
       "title" : "Subject recruitment",
-      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam efficitur, est sed vestibulum viverra, mi dui semper erat, non placerat dolor est"
+      "description" : "Strategic planning of recruitment based on protocol requirement."
     },
     {
       "icon" : "hospital",
-      "title" : "Site Initiation",
-      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus in ornare orci, et posuere velit. Suspendisse tempor blandit augue, non. "
+      "title" : "Site selection",
+      "description" : "Efficient short listing of prospective Investigators from our database.
+
+      Network of the top enrolling sites nationwide on multiple studies by virtue of their inherent merits
+      . "
     },
     {
       "icon" : "file-medical-alt",
       "title" : "Site monitoring",
-      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus in ornare orci, et posuere velit. Suspendisse tempor blandit augue, non. "
+      "description" : "Support onsite and remote monitoring. "
     },
     {
       "icon" : "clock",
       "title" : "Medical writing",
-      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus in ornare orci, et posuere velit. Suspendisse tempor blandit augue, non. "
+      "description" : " "
     },
     {
       "icon" : "clock",
       "title" : "Statistical analysis",
-      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus in ornare orci, et posuere velit. Suspendisse tempor blandit augue, non. "
+      "description" : " "
     },
     {
       "icon" : "clock",
       "title" : "Other services",
-      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus in ornare orci, et posuere velit. Suspendisse tempor blandit augue, non. "
+      "description" : " "
     }
   ]  
 }
