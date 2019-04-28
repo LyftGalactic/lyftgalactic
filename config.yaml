@@ -1,7 +1,7 @@
 baseURL : https://demo.uicard.io/hugo-sodium/
 languageCode : en-us
-title : Loop Clinical
-theme : hugo-sodium-free
+title : Sodium
+theme : hugo-sodium-theme
 
 taxonomies:
   category: categories
@@ -9,11 +9,11 @@ taxonomies:
 
 params:
   social:
-    facebook: uicardio
-    instagram: uicardio
-    twitter: uicardio
+    facebook: loopclinical
+    instagram: loopclinical
+    twitter: loopclinical
 
   scripts:
-    googleanalytics: 
+    googleanalytics: "UA-113081075-1"
     disqus: 
     
