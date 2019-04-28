@@ -1,6 +1,6 @@
-baseURL : https://demo.uicard.io/
+baseURL : https://demo.uicard.io/hugo-sodium/
 languageCode : en-us
-title : Sodium
+title : Loop Clinical
 theme : hugo-sodium-theme
 
 taxonomies:
