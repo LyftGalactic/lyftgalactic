@@ -3,19 +3,9 @@
   "description" : "Our headquarter is located in Bangalore",
   "members" : [
     {
-      "name" : "Avatar 1",
-      "description" : "CEO",
-      "avatar" : "dog1.jpg"
-    },
-    {
-      "name" : "Avatar 2",
-      "description" : "Content Writer",
-      "avatar" : "dog2.jpg"
-    },
-    {
-      "name" : "Avatar 3",
-      "description" : "CEO",
-      "avatar" : "dog3.jpg"
+      "name" : "Bharath Kumar",
+      "description" : "",
+      "avatar" : "bharath.jpg"
     }
   ]
 }
