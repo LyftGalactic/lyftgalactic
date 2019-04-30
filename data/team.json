@@ -3,6 +3,11 @@
   "description" : "Our headquarter is located in Bangalore",
   "members" : [
     {
+      "name" : "MVN Kasyap",
+      "description" : "",
+      "avatar" : "kasyap.jpg"
+    },
+    {
       "name" : "Bharath Kumar",
       "description" : "",
       "avatar" : "bharath.jpg"
