@@ -1,3 +1,3 @@
 [submodule "themes/hugo-sodium-theme"]
 	path = themes/hugo-sodium-theme
-	url = https://github.com/0xbharath/hugo-sodium-theme.git
+	url = git@gitlab.com:0xbharath/hugo-sodium-theme.git
