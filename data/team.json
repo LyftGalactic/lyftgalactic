@@ -3,14 +3,14 @@
   "description" : "Our headquarter is located in Bangalore",
   "members" : [
     {
-      "name" : "MVN Kasyap",
+      "name" : "Welcome to the Bright Side",
       "description" : "",
-      "avatar" : "kasyap.jpg"
+      "avatar" : "yoda.png"
     },
     {
-      "name" : "Bharath Kumar",
+      "name" : "Welcome to the Dark Side",
       "description" : "",
-      "avatar" : "bharath.jpg"
+      "avatar" : "darth.png"
     }
   ]
 }

@@ -1,6 +1,6 @@
-baseURL : https://loopclinical.com/
+baseURL : https://lyftgalactic.com/
 languageCode : en-us
-title : Loop Clinical
+title : Lyft Galactic
 theme : hugo-sodium-theme
 
 taxonomies:
@@ -9,9 +9,9 @@ taxonomies:
 
 params:
   social:
-    facebook: loopclinical
-    instagram: loopclinical
-    twitter: loopclinical
+    facebook: lyftgalactic
+    instagram: lyftgalactic
+    twitter: lyftgalactic
 
   scripts:
     googleanalytics: "UA-113081075-1"

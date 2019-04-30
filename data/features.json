@@ -3,41 +3,14 @@
   "description" : "We're best at our services",
   "content" : [
     {
-      "icon" : "user-md",
-      "title" : "Clinical trials",
-      "description" : "Excellence in Onsite Coordination and Monitoring of Phase II, III, and IV clinical trials."
+      "icon" : "rocket",
+      "title" : "Intergalactic Chauffeur",
+      "description" : "Excellence in intergalactic transport and hospitality"
     },
     {
-      "icon" : "notes-medical",
-      "title" : "Subject recruitment",
-      "description" : "Strategic planning of recruitment based on protocol requirement."
-    },
-    {
-      "icon" : "hospital",
-      "title" : "Site selection",
-      "description" : "Efficient short listing of prospective Investigators from our database."
-
-      
-    },
-    {
-      "icon" : "file-medical-alt",
-      "title" : "Site monitoring",
-      "description" : "Support onsite and remote monitoring. "
-    },
-    {
-      "icon" : "clock",
-      "title" : "Medical writing",
-      "description" : "... "
-    },
-    {
-      "icon" : "clock",
-      "title" : "Statistical analysis",
-      "description" : "... "
-    },
-    {
-      "icon" : "clock",
-      "title" : "Other services",
-      "description" : ", "
+      "icon" : "truck",
+      "title" : "Intergalactic Cargo",
+      "description" : "Seamless service for shifting cargo acoss the galaxy."
     }
   ]  
 }
