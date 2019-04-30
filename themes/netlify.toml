@@ -1,0 +1,19 @@
+[build]
+publish = "public"
+command = "hugo"
+
+[context.production.environment]
+HUGO_VERSION = "0.54.0"
+HUGO_ENV = "production"
+HUGO_ENABLEGITINFO = "true"
+
+[[headers]]
+for = "/*"
+[headers.values]
+Content-Security-Policy-Report-Only = "default-src cdnjs.cloudflare.com 'self' blog.rmhogervorst.nl code.jquery.com fonts.googleapis.com fonts.gstatic.com maxcdn.bootstrapcdn.com pbs.twimg.com platform.twitter.com d33wubrfki0l68.cloudfront.net syndication.twitter.com www.youtube.com; font-src cdnjs.cloudflare.com fonts.gstatic.com fonts.googleapis.com github.com maxcdn.bootstrapcdn.com themes.googleusercontent.com 'self'; img-src blog.rmhogervorst.nl 'self' cdnjs.cloudflare.com i.ytimg.com media.giphy.com pbs.twimg.com platform.twitter.com d33wubrfki0l68.cloudfront.net syndication.twitter.com lubor.netlify.com; script-src cdnjs.cloudflare.com code.jquery.com maxcdn.bootstrapcdn.com 'self' blog.rmhogervorst.nl platform.twitter.com s3.amazonaws.com syndication.twitter.com d33wubrfki0l68.cloudfront.net cdn.syndication.twimg.com cdn.walkme.com; style-src blog.rmhogervorst.nl cdnjs.cloudflare.com fonts.googleapis.com maxcdn.bootstrapcdn.com cdn.lyftgalactic.com platform.twitter.com 'self' d33wubrfki0l68.cloudfront.net use.fontawesome.com; child-src platform.twitter.com syndication.twitter.com www.youtube.com; form-action syndication.twitter.com; frame-src platform.twitter.com syndication.twitter.com www.youtube.com; media-src ssl.gstatic.com; script-src-elem blog.rmhogervorst.nl platform.twitter.com cdn.syndication.twimg.com 'self' mathjax.rstudio.com; style-src-elem platform.twitter.com 'self'; report-uri https://InqfER9ADDQkP0qwRJP3Isb0slDPa.report-uri.com/r/d/csp/reportOnly"
+Referrer-Policy = "origin; same-origin ;strict-origin-when-cross-origin;"
+Strict-Transport-Security = "max-age=63072000; includeSubDomains; preload"
+X-Recon = "You are doing it right!"
+X-Content-Type-Options = "nosniff"
+X-Frame-Options = "DENY"
+X-XSS-Protection = "1; mode=block"

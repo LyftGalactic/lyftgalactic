@@ -1,0 +1,11 @@
+### this adds headers to the file
+# Header rules for Netlify
+
+# Prevent embedding & provide XSS protection
+# Also preload resources to speed up and unblock rendering
+/*
+  X-Frame-Options: DENY
+  X-Recon: "You are doing it right"
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: origin; same-origin ;strict-origin-when-cross-origin;
