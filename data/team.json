@@ -1,9 +1,9 @@
 {
   "title" : "Our team",
-  "description" : "Our headquarter is located in Bangalore",
+  "description" : "Welcome to the Dark Side!",
   "members" : [
     {
-      "name" : "Welcome to the Dark Side",
+      "name" : "Welcome to the Dark Side!",
       "description" : "",
       "avatar" : "darth.png"
     }
