@@ -1,0 +1,7 @@
+https://lyftgalactic.com/security.txt
+Date & time last crawled: Mon, 29 Apr 2019 05:15:55 GMT
+Contact: contact@lyftgalactic.com
+Preferred-Languages: en
+Canonical: https://lyftgalactic.com/security.txt
+Policy: https://bounty.lyftgalactic.com
+# Flag: NullBlrCtf{15_sjKpIuH1kh5pLyJk7HDResyRsoXdZUdh}
